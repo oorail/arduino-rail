@@ -18,7 +18,8 @@ learning more about the code and modules to build their own code.
 
 |Project|Description|
 |-------|-----------|
+|oorail-digital-control-basic|Basic code for API driven train control|
 |oorail-l298n-basics|Basic ESP32 + L298N motor board to control a DC train|
-|point-motors|Basic code for Arduino + Motor Relay Board to operate points via point motors|
 |train-detection|Simple Train Detection using a pressure plate|
+|point-motors|Basic code for Arduino + Motor Relay Board to operate points via point motors|
 
